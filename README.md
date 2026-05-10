@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/play_store_512.png" alt="ShiftWatch Logo" width="150">
+  <img src="images/GP_Logo.png" alt="ShiftWatch Logo" width="150">
 
   # 🚀 👁️‍🗨️ ShiftWatch
 
@@ -46,26 +46,6 @@ The supervisor uploads a workplace surveillance video, and the system automatica
 - 🛎 **Firebase Cloud Messaging (FCM):** Real-Time Push Notifications.
 - 🌍 **Multi-language Support:** (EN / AR).
 - 📶 **Offline Support:** Handles network state changes gracefully.
-
----
-
-## 🎥 Video Demonstrations
-
-See ShiftWatch in action! 
-
-### Onboarding Module Video
-<div align="center">
-  <video src="https://raw.githubusercontent.com/M-AboGamihe/shiftwatch/main/videos/onboarding.mp4" controls="controls" muted="muted" width="600">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-### Main App Flow Video
-<div align="center">
-  <video src="videos/main_flow.mp4" controls="controls" muted="muted" width="800">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
 ---
 
